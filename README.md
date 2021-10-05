@@ -1,6 +1,6 @@
 ## Tableau projects:
 
-This is a wrap-up repository of all my Tableau gigs/projects. From dashboards to single-page visualization all done using Tableau.
+This is a wrapper repository for some of my Tableau gigs/projects. From dashboards to single-page visualization all done using Tableau.
 
 - [ Tableau: Sales Volume Dashboard](https://github.com/taricov/Tableau_Sales_Dashboard)<br/>
 - [ Tableau: Retail Analysis - Walmart](https://github.com/taricov/Tableau_Retail_Analysis_Dashboard)<br/>
